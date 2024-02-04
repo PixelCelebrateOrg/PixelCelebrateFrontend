@@ -1,0 +1,134 @@
+.home-header{
+    color:red;
+}
+
+.imaginePrincipala{
+    width: 100%;
+    height: 40vmax;
+    padding-top: 20%;
+    padding-left: 35%;
+    padding-bottom: 2%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-image: url(../commons/images/pozaHome.jpg);
+    opacity: 0.9;
+    border-width: 0 1vmax 1vmax 1vmax;
+    border-style: solid;
+    border-color: #262121;
+}
+
+.textImagine{
+    height: fit-content;
+    width: fit-content;
+    background-color: rgba(153, 175, 187, 0.7);
+    font-family: 'Karla', serif;
+    font-style: normal;
+    /*font-weight: 400;*/
+    font-size: 5.2vmax;
+    line-height: 112px;
+
+    color: #0f0f0f;
+}
+.divContact{
+    /* contact */
+
+    height: 30vmax;
+
+    background: rgba(196, 164, 135, 0.7);
+    border-width: 0 1vmax 1vmax 1vmax;
+    border-style: solid;
+    border-color: rgba(63, 62, 62, 1);
+
+}
+
+.textContact{
+    font-family: 'Karla', serif;
+    font-style: normal;
+    font-size: 4vmax;
+    color: #000000;
+    padding-top: 5%;
+    /*text-align: center;*/
+}
+
+.logoContact{
+    height: 3vmax;
+    width: 3vmax;
+}
+.textLogo{
+    font-family: 'Karla', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.2vmax;
+    color: #2d2d2d;
+    display: inline-block;
+    padding-left: 2%;
+    padding-top: 5%;
+}
+.textSubLogo{
+    font-family: 'Karla', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.5vmax;
+    color: #2d2d2d;
+    display: inline-block;
+    padding-left: 2%;
+}
+.divInformatii
+{
+    height: 30vmax;
+    width: 100%;
+    background: #D9D9D9;
+    border-width: 0 1vmax 1vmax 1vmax;
+    border-style: solid;
+    border-color: #262121;
+    opacity: 0.9;
+}
+
+.textInformatii{
+    font-family: 'Karla', serif;
+    font-style: normal;
+    font-size: 3vmax;
+    color: #000000;
+}
+
+.lineInformatii{
+    width: 24vmax;
+    margin-left: 36%;
+    margin-top: 12vmax;
+    border: 0.4vmax solid #22B0DD;
+    transform: rotate(90deg);
+
+}
+
+.textInfoStanga{
+    width: 40%;
+    height: 20vmax;
+    margin-left: -17vmax;
+    margin-top: -10vmax;
+    text-align: justify;
+
+    font-family: 'Karla', serif;
+    font-style: normal;
+    font-size: 2vmax;
+    display: inline-block;
+
+    color: #000000;
+}
+
+.textInfoDreapta{
+    width: 35%;
+    height: 20vmax;
+    margin-right: 5%;
+    margin-top: -10vmax;
+    text-align: justify;
+
+    font-family: 'Karla', serif;
+    font-style: normal;
+    font-size: 2vmax;
+
+    display: inline-block;
+    float: right;
+
+    color: #000000;
+}

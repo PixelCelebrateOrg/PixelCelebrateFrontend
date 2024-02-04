@@ -1,0 +1,24 @@
+.navlink1:hover
+{
+    background-color:#f3ccac !important;
+    color:black !important;
+}
+
+.navlink1
+{
+    color: white !important;
+    margin-right: 5%;
+    border-radius: 1vmax;
+}
+
+.btn:hover
+{
+    background-color:#f3ccac !important;
+    color:black !important;
+}
+
+.btn
+{
+    width: 8vmax !important;
+    font-size: 1.2vmax !important;
+}
